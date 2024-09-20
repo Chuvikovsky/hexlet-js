@@ -1,3 +1,3 @@
-import returnLastItem from './src/index.js';
+import returnLastItem from "./src/index.js";
 
-console.log(returnLastItem(['one', 'two']));
+console.log(returnLastItem(["one", "two"]));
